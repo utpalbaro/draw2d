@@ -1,0 +1,12 @@
+{
+    "folder" : "plugins",
+    "plugins" : [
+        {
+            "classname" : "CreateRectContext", 
+            "label": "Rectangle",
+            "enter": "R", 
+            "help": "Create Rectangle",
+            "path": "createRectContext/createRectContext.js"
+        }
+    ]
+}
